@@ -1,6 +1,6 @@
 
 import SwiftUI
-//8292
+//829
 struct KisilerSatir: View {
     var kisi = Kisiler()
     
